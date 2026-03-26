@@ -121,7 +121,6 @@ PUTCHAR_PROTOTYPE{
  
  <img width="1919" height="1079" alt="569065451-e5aefec9-682c-46be-a3e5-19265a1a9428" src="https://github.com/user-attachments/assets/f1b6da27-cd16-4280-8652-767faf1b62f9" />
 
- 
- 
+
 ## Result :
 The IoT development board was successfully interfaced, and the USART was configured to transmit strings. The transmitted data was verified using a serial monitor, confirming proper communication.
